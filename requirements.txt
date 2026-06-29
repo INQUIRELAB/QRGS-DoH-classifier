@@ -1,0 +1,13 @@
+# Pinned to the environment used for the manuscript (conda env "qnn-reup", Python 3.10).
+# CPU-only; statevector simulation. Install into a fresh venv/conda env.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.9.0
+qiskit==1.0.2
+qiskit-aer==0.14.1
+qiskit-algorithms==0.3.0
+qiskit-machine-learning==0.7.2
+qiskit-ibm-runtime==0.23.0
+xgboost==2.0.3

@@ -1,0 +1,4 @@
+{
+  "token": "YOUR_IBM_QUANTUM_API_TOKEN",
+  "instance": "ibm-q/open/main"
+}

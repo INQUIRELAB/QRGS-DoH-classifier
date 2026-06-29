@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data, caches and run outputs (regenerated; not part of the code release)
+data/
+results/
+mlruns/
+*.npy
+*.csv
+*.log
+
+# IBM Quantum credentials (NEVER commit a real token)
+quantum_config.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
